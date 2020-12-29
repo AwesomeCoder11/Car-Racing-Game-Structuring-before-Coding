@@ -1,1 +1,2 @@
-# Car-Racing-Game-Structuring-before-Coding
+# synchronousBallMovement
+Ball moving synchronously
